@@ -7,24 +7,24 @@ _Php Developer based in France_ <br>
 ## 👩🏼‍💻 Developer Experiences
 
 **Open Class Room** @ [OCR](https://openclassrooms.com/fr/paths/556-developpeur-web) _(Jan 2021 - Jul 2021)_ <br>
-  - learned the basics of web development, which are html, css and JavaScript.
-  - Improved my front-end skills, with courses on Sass and bootstrap
-  - Built my back-end knowledge with php
-  - **_Technologies used:_** VS Code, Terminal, Github, HTML, CSS, Sass, Bootstrap, Php, Javascript.
+  - learned the basics of web development, which are HTML, CSS and JavaScript.
+  - Improved my Front-End skills, with courses on Sass and Bootstrap
+  - Built my Back-End knowledge with PHP
+  - **_Technologies used:_** VS Code, Terminal, Github, HTML, CSS, Sass, Bootstrap, Php, JavScript.
 <br><br>
 
-**Udemy courses : The Complete JavaScript Course 2022: From Zero to Expert!| PHP for Beginners - Become a PHP Master - CMS Project
-** @ [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) _(Aug 2021 - Mar 2022)_ <br>
+**Udemy courses :** @ [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) _(Aug 2021 - Mar 2022)_ <br>
+The Complete JavaScript Course 2022: From Zero to Expert!| PHP for Beginners - Become a PHP Master - CMS Project<br>
+
   **_JavaScript Spécialisation:_**
-  - To build solid knowledge in javascript because it is essential, I learned to master and understand many notions such as Data Structure, Functions, Arrays, DOM,         OOP, Mapty, Asynchronous, Modern-JS-Modules-Tools...
-  <br>
+  - To build solid knowledge in JavaScript because it is essential, I learned to master and understand many notions such as Data Structure, Functions, Arrays, DOM,         OOP, Mapty, Asynchronous, Modern-JS-Modules-Tools...
+
   **_PHP Spécialisation:_**
   - Learned to create a (CMS) Content Management System like WordPress, Drupal or Joomla, 
   - Using MYSQL database
   - How to launch your application online
   - How to use AJAX to submit data to the server without refreshing the page
   - PHP security / Password hashing / use composer (PHP package manager) / use API's...
-
 <br><br>
 
 **O'Clock Student** @ [O'Clock](https://oclock.io/formations/developpeur-web) _(Mar 2022 - Present)_ <br>
@@ -39,7 +39,6 @@ This will be all the knowledge to be a passionate and autodidacte Developer Web 
   - Framework / ORM / API / AJAX
   - Adminsys / SSH / Deploy / CMS
   - SYMFONY in spécialisation
-  - 
     <br><br>
 
 **Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
