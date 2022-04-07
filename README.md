@@ -1,19 +1,35 @@
 # Tom Bouiche
 
-_Php Developer based in France_ <br>
+_Junior Developer based in France_ <br>
 
 [Email](mailto:tom.bouiche@outlook.fr) / [Website](https://inWorking.com/) / [LinkedIn](https://www.linkedin.com/in/bouiche-tom-8361b8166/) / [GitHub](https://github.com/Tomybch) / [Twitter](https://twitter.com/Tom_Bouiche) / [DEV](https://dev.to/TomyBch/)
+<br><br><br>
 
-## 👩🏼‍💻 Developer Experiences
 
-**Open Class Room** @ [OCR](https://openclassrooms.com/fr/paths/556-developpeur-web) _(Jan 2021 - Jul 2021)_ <br>
+
+## 🧔 My journey from Electronics to Web Development
+<br>
+
+**👨‍🎓SEN (Sytèmes Electroniques Numériques) baccalaureate** @ [EME School] _(Sep 2011 - Jul 2014)_ <br>
+  - structure of a network, notions of electricity (the different laws, weak and strong current...)
+  - read an electronic plan, knowledge of electronic components...
+  - welding, electronic device cable, preventive and curative maintenance...
+    <br><br>
+    
+**👨‍🎓BTS SN IR( Systèmes Numériques Informatique et Réseaux)** @ [EME School] _(Sep 2016 - Jul 2018)_ <br>
+  - Algorithms / Physics / English / Economics and Management
+  - Data communication networks and their security / Design, Deployment and Configuration of Computer Networks (VLAN, routing, firewall, etc.)
+  - Embedded Systems / Hardware Architecture of Computers and Microcontrollers / Industrial networks (Modbus, CAN…) / Server virtualization, hypervisor...
+  - Digital processing (sounds and images) / Basics of telecoms (signal, filtering, transmission, antennas, etc.)
+  <br><br>
+
+**🙇‍♀️Open Class Room** @ [OCR](https://openclassrooms.com/fr/paths/556-developpeur-web) _(Jan 2021 - Jul 2021)_ <br>
   - learned the basics of web development, which are HTML, CSS and JavaScript.
   - Improved my Front-End skills, with courses on Sass and Bootstrap
   - Built my Back-End knowledge with PHP
-  - **_Technologies used:_** VS Code, Terminal, Github, HTML, CSS, Sass, Bootstrap, Php, JavScript.
 <br><br>
 
-**Udemy courses :** @ [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) _(Aug 2021 - Mar 2022)_ <br>
+**🙋‍♀️Udemy courses :** @ [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) _(Aug 2021 - Mar 2022)_ <br>
 The Complete JavaScript Course 2022: From Zero to Expert!| PHP for Beginners - Become a PHP Master - CMS Project<br>
 
   **_JavaScript Spécialisation:_**
@@ -27,7 +43,7 @@ The Complete JavaScript Course 2022: From Zero to Expert!| PHP for Beginners - B
   - PHP security / Password hashing / use composer (PHP package manager) / use API's...
 <br><br>
 
-**O'Clock Student** @ [O'Clock](https://oclock.io/formations/developpeur-web) _(Mar 2022 - Present)_ <br>
+**🙋‍♂️O'Clock Student** @ [O'Clock](https://oclock.io/formations/developpeur-web) _(Mar 2022 - Present)_ <br>
 The Best Adventure ever to touch my goal 🎯 and to get an official Professional title recognized by the State 🎓 .
 This will be all the knowledge to be a passionate and autodidacte Developer Web 🎊
   - Linux / HTML / CSS  / Git
@@ -41,97 +57,7 @@ This will be all the knowledge to be a passionate and autodidacte Developer Web 
   - SYMFONY in spécialisation
     <br><br>
 
-**Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
-Professional chauffeur service available in over 300 cities worldwide.
-  - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
-  - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
-  - Extended and maintained a company-wide design system
-  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
-  <br><br>
-
-**Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
-API-first infrastructure to create, manage and distribute content.
-  - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
-  - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
-  - Assistance with information architecture and UX writing for the web app
-  - **_Technologies used:_** React, Gatsby, Node.js, GraphQL, REST, Contentful.
-  - **_Selected writing:_**
-    - [JavaScript SDK guide](https://www.contentful.com/developers/docs/javascript/tutorials/using-js-cda-sdk/)
-    - [Node.js example app and courses](https://the-example-app-nodejs.contentful.com/courses)
-    - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
-    <br><br>
-    
-## 🗞 Journalism Experience
-
-_This section only accounts for work done post-career change._
-<br><br>
-
-**Acting Editor** @ [Future of Sex](https://futureofsex.net/author/carolyn/) _(Apr 2022 - Present)_ <br>
-_Previously worked a Reporter from Dec 2020 - Apr 2022_ <br>
-Online publication that provides insights into the future of human sex and sexuality.
-  - Managing a team of writers and the Future of Sex editorial calendar
-  - Writing features and reporting on events relevant to the sex tech community
-  - **_Selected articles:_**
-    - [Does Having an IUD Make You a Biohacker or a Cyborg?](https://futureofsex.net/augmentation/does-having-an-iud-make-you-a-biohacker-or-a-cyborg/)
-    - [Exploring Queerness By Switching Up My Vibrators](https://futureofsex.net/sex-tech/exploring-queerness-by-switching-up-my-vibrators/)
-    - [Future of Fingering: Lessons Learned from the Award-Winning Tentilex Project](https://futureofsex.net/sex-tech/future-of-fingering-lessons-learned-from-the-award-winning-tentilex-project/)
-<br><br>
-
-**Freelance Writer** _(Mar 2020 - Present)_ <br>
-Regular contributor to [Sex for Every Body](https://sexforeverybody.com/author/carolyn/). Other articles in [Autostraddle](https://www.autostraddle.com/sharing-is-caring-or-did-you-skip-that-day-in-school__trashed/), [Silicon Allee](https://news.siliconallee.com/2021/07/26/the-art-of-pitching-a-sex-tech-startup/), [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/), and [elsewhere](https://workwithcarolyn.com/words).
-<br><br>
-
-**Contributing Editor** @ [FLURT Magazine](https://www.facebook.com/flurtmagazine) _(Mar 2016 - Sep 2018)_ <br>
-Magazine for socially conscious young people who want to create their own media.
-  - Wrote over 20 articles for print and web focused on technology and activism
-  - Edited and curated online-exclusive content
-  - **_Selected articles:_**
-    - [The War on Sex](https://workwithcarolyn.com/words/war-on-sex)
-    - [What to Do if You Get Doxed](https://workwithcarolyn.com/words/what-to-do-if-you-get-doxed)
-    - [How Marijuana Can Improve Your Health](https://workwithcarolyn.com/words/how-marijuana-can-improve-your-health)
-    <br><br>
-
-## 📌 On The Side
-
-**Workshop Lead** @ [New Devs on the Block](https://newdevs.org/) _(Jul 2019 - Present)_ <br>
-Free, two-day workshops to help people build their first website.
-  - Creating a curriculum that covers HTML, CSS and a bit of JavaScript 
-  - Preparing supplemental presentations on topics like accessibility and animations
-  - Events in Nürnberg and Vienna, now post-poned due to the COVID-19 outbreak 
-  <br><br>
-
-**Web Development Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Feb 2017 - Aug 2021)_<br>
-Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
-  - Built and continuously developed the course curriculum with a team of 4-8 other instructors
-  - Led classes to improve student comprehension of React, HTML, CSS and general web design principles
-  - Mentored students through presentations and job search
-  - _Note: Took a break from teaching in 2019_
-  <br><br>
-
-**Co-Organizer** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Dec 2021)_<br>
-🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
-  - Selected speakers and scheduling events
-  - Fostered an inclusive community and enforced the code of conduct
-  - 🐻 _Previously co-organized [BerlinJS](https://berlinjs.org/) from May 2018 - May 2020_
-  <br><br>
-  
-
-## 🎤 Public Speaking
-    
-### Recent Appearances
-
-- **Women TechMakers Vienna Conference** _(streamed on Aug 7, 2020)_
-<br>[How AI is Enhancing Journalism](https://www.youtube.com/watch?v=-qZCRHwnnbM)<br>
-
-- **single-threaded Podcast** _(released on Mar 31, 2021)_
-<br>[Crying at work](https://anchor.fm/single-threaded/episodes/Carolyn-Stransky-on-Crying-at-Work-etu7hj)<br>
-<br>
-
-**Want me to speak at your event?**
-<br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
-<br><br>
-  
-## 🏆 Accomplishments
+## 🏆 Web Accomplishments
 
 **Won First Place** @ [Rainbows End Sex Tech Hackathon](https://hack.touchyfeely.tech/) _(May 2021)_ <br>
 Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband that records your hand movement and generates a live 3D-model. 
@@ -148,20 +74,21 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 
 ## 💬 Languages
 
-**English**: B1 <br>
-**French**: Native
+**English**: B1  / **French**: Native
 <br><br>
 
-## 👩🏼‍🎓 Education
+## 📌 On The Side
 
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
-
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
-
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
-
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
+**⛵Travel lover** @ [My Instagram](https://www.instagram.com/krambo_bch/?hl=fr) <br>
+ “There’s a sunrise and a sunset every single day, and they’re absolutely free. Don’t miss so many of them” 
+  <br><br>
+**📸photo addict**<br>
+“We take photos as a return ticket to a moment otherwise gone” 
+  <br><br>
+**🕹Video games**<br>
+“I don’t need to get a life, I am a gamer, I have lots of lives”
+  <br><br>
+**⚾Sport**<br>
+I always felt that my greatest asset was not my physical ability, it was my mental ability"
+  <br><br>  
+  
