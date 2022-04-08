@@ -4,13 +4,14 @@ _Junior Developer based in France_ <br>
 
 [Email](mailto:tom.bouiche@outlook.fr) / [Website](https://inWorking.com/) / [LinkedIn](https://www.linkedin.com/in/bouiche-tom-8361b8166/) / [GitHub](https://github.com/Tomybch) / [Twitter](https://twitter.com/Tom_Bouiche) / [DEV](https://dev.to/TomyBch/)
 <br><br><br>
-<style>
 
+<style>
 img {
   position: absolute;
   left: 60px;
   }
 </style>
+
 <img src="1620578997411.jpg" alt="profil img" width="150" style=" left:60px" />
 
 ## 🧔 My journey from Electronics to Web Development
