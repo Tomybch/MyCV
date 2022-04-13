@@ -28,7 +28,7 @@ _Junior Developer based in France_ <br>
 <br><br>
 
 **🙋‍♀️Udemy courses :** @ [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) _(Aug 2021 - Mar 2022)_ <br>
-The Complete JavaScript Course 2022: From Zero to Expert!| PHP for Beginners - Become a PHP Master - CMS Project<br>
+The Complete JavaScript Course 2022: From Zero to Expert! PHP for Beginners - Become a PHP Master - CMS Project<br>
 
   **_JavaScript Spécialisation:_**
   - To build solid knowledge in JavaScript because it is essential, I learned to master and understand many notions such as Data Structure, Functions, Arrays, DOM,         OOP, Mapty, Asynchronous, Modern-JS-Modules-Tools...
