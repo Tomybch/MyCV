@@ -76,7 +76,7 @@ This will be all the knowledge to be a passionate and autodidacte Developer Web 
 
 ## 📌 On The Side
 
-**⛵Travel lover** @ [My Instagram](https://www.instagram.com/krambo_bch/?hl=fr) <br>
+**⛵Travel lover**<br>
  “There’s a sunrise and a sunset every single day, and they’re absolutely free. Don’t miss so many of them” 
   <br><br>
 **📸photo addict**<br>
