@@ -9,7 +9,7 @@ _Junior Developer based in France_ <br>
 <br>
 
 **👨‍🎓SEN baccalaureate (Sytèmes Electroniques Numériques)** @ [EME School] _(Sep 2011 - Jul 2014)_ <br>
-  - structure of a network, notions of electricity (the different laws, weak and strong current...)
+  - structure of a network, notions of electricity (weak and strong current...)
   - read an electronic plan, knowledge of electronic components...
   - welding, electronic device cable, preventive and curative maintenance...
     <br><br>
