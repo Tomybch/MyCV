@@ -2,7 +2,7 @@
 
 _Junior Developer based in France_ <br>
 
-[Email](mailto:tom.bouiche@outlook.fr) / [Website](In working) / [LinkedIn](https://www.linkedin.com/in/bouiche-tom-8361b8166/) / [GitHub](https://github.com/Tomybch) / [Twitter](https://twitter.com/Tom_Bouiche) / [DEV](https://dev.to/TomyBch/)
+[Email](mailto:tom.bouiche@outlook.fr) / [Website](In working) / [LinkedIn](https://www.linkedin.com/in/bouiche-tom-8361b8166/) / [GitHub](https://github.com/Tomybch) / [Twitter](https://twitter.com/Tom_Bouiche) 
 <br><br>
 <img src="1620578997411.jpg" alt="profil img" width="150" />
 ## 🧔 My journey from Electronics to Web Development
@@ -57,15 +57,15 @@ This will be all the knowledge to be a passionate and autodidacte Developer Web 
 
 ## 🏆 Web Accomplishments
 
-**Won Best Project** @ [////////////////](////////////////]) _(////////////////])_<br>
+**Still in Working** @ [////////////////](////////////////]) _(////////////////])_<br>
 ////////////////
 <br><br>
 
-**Won Best Project** @ [////////////////](////////////////]) _(////////////////])_<br>
+**It will be there Soon** @ [////////////////](////////////////]) _(////////////////])_<br>
 ////////////////
 <br><br>
 
-**Won Best Project** @ [////////////////](////////////////]) _(////////////////])_<br>
+**I promise** @ [////////////////](////////////////]) _(////////////////])_<br>
 ////////////////
 <br><br>
 
