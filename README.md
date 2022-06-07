@@ -24,7 +24,7 @@ _Junior Developer based in France_ <br>
 **🙇‍♀️Open Class Room** @ [OCR](https://openclassrooms.com/fr/paths/556-developpeur-web) _(Jan 2021 - Jul 2021)_ <br>
   - learned the basics of web development, which are HTML, CSS and JavaScript.
   - Improved my Front-End skills, with courses on Sass and Bootstrap
-  - Built my Back-End knowledge with PHP
+  - Built my Back-End knowledge's with PHP
 <br><br>
 
 **🙋‍♀️Udemy courses :** @ [Udemy](https://www.udemy.com/course/the-complete-javascript-course/) _(Aug 2021 - Mar 2022)_ <br>
