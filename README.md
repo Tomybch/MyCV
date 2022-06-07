@@ -7,7 +7,7 @@ _tom.bouiche@outlook.fr_ <br>
 <img src="1620578997411.jpg" alt="profil img" width="150" />
 ## 🧔 My journey from Electronics to Web Development
 
-Hi there ! I hope you will enjoy these few lines, to show my determination, create a relation and maybe find my first expérience, I'm open for all type of contract's like traineeship, apprenticeship and of course a job ! I m really open to move for an opportunity 🚵‍♂️
+Hi there ! I hope you will enjoy these few lines, to show my skills, create a relation and maybe find my first expérience, I'm open for all type of contract's like traineeship, apprenticeship and of course a job ! I m really open to move for an opportunity 🚵‍♂️
 <br>
 
 **🙋‍♂️O'Clock Student** @ [O'Clock](https://oclock.io/formations/developpeur-web) _(Mar 2022 - September 2022)_ <br>
