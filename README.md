@@ -65,7 +65,7 @@ This will be all the knowledge to be a passionate and autodidacte Developer Web 
 ////////////////
 <br><br>
 
-**I promise** @ [////////////////](////////////////]) _(////////////////])_<br>
+**I promise ! But you can go in my github to see many little projects ! 😊** @ [////////////////](////////////////]) _(////////////////])_<br>
 ////////////////
 <br><br>
 
