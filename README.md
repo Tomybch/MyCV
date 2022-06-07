@@ -1,13 +1,13 @@
 # Tom Bouiche
 
-_Junior Developer based in France_ <br>
-
-[Email](mailto:tom.bouiche@outlook.fr) / [Website](In working) / [LinkedIn](https://www.linkedin.com/in/bouiche-tom-8361b8166/) / [GitHub](https://github.com/Tomybch) / [Twitter](https://twitter.com/Tom_Bouiche) 
+_06 34 44 56 52_ <br>
+_tom.bouiche@outlook.fr_ <br>
+ [Website](In working) / [LinkedIn](https://www.linkedin.com/in/bouiche-tom-8361b8166/) / [GitHub](https://github.com/Tomybch) / [Twitter](https://twitter.com/Tom_Bouiche) 
 <br><br>
 <img src="1620578997411.jpg" alt="profil img" width="150" />
 ## 🧔 My journey from Electronics to Web Development
 
-Hi there ! I hope you will enjoy these few lines, and create a relation and maybe find my first expérience, I'm open for all type of contract's like traineeship, apprenticeship and of course a job ! I m really open to move for an opportunity all around France  😊
+Hi there ! I hope you will enjoy these few lines, create a relation and maybe find my first expérience, I'm open for all type of contract's like traineeship, apprenticeship and of course a job ! I m really open to move for an opportunity 🚵‍♂️
 <br>
 
 **🙋‍♂️O'Clock Student** @ [O'Clock](https://oclock.io/formations/developpeur-web) _(Mar 2022 - September 2022)_ <br>
