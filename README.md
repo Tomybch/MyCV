@@ -1,7 +1,7 @@
 # Tom Bouiche
 
 _06 34 44 56 52_ <br>
-26 ans <br>
+26 years <br>
  _tom.bouiche@outlook.fr_/[LinkedIn](https://www.linkedin.com/in/bouiche-tom-8361b8166/) / [GitHub](https://github.com/Tomybch) / [Twitter](https://twitter.com/Tom_Bouiche) 
 <br><br>
 <img src="1620578997411.jpg" alt="profil img" width="150" />
