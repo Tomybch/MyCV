@@ -1,8 +1,8 @@
 # Tom Bouiche
 
 _06 34 44 56 52_ <br>
-_tom.bouiche@outlook.fr_ <br>
- [LinkedIn](https://www.linkedin.com/in/bouiche-tom-8361b8166/) / [GitHub](https://github.com/Tomybch) / [Twitter](https://twitter.com/Tom_Bouiche) 
+26 ans <br>
+ _tom.bouiche@outlook.fr_/[LinkedIn](https://www.linkedin.com/in/bouiche-tom-8361b8166/) / [GitHub](https://github.com/Tomybch) / [Twitter](https://twitter.com/Tom_Bouiche) 
 <br><br>
 <img src="1620578997411.jpg" alt="profil img" width="150" />
 ## 🧔 My journey from Electronics to Web Development
