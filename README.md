@@ -37,16 +37,16 @@ The Complete JavaScript Course 2022: From Zero to Expert! PHP for Beginners - Be
 <br><br>
 
 **🙇‍♀️Open Class Room** @ [OCR](https://openclassrooms.com/fr/paths/556-developpeur-web) _(Jan 2021 - Jul 2021)_ <br>
-  - learned the basics of web development, which are HTML, CSS and JavaScript.
+  - Learned the basics of web development, which are HTML, CSS and JavaScript.
   - Improved my Front-End skills, with courses on Sass and Bootstrap
   - Built my Back-End knowledge's with PHP
 <br><br>
 
-**👨‍🎓SEN baccalaureate (Sytèmes Electroniques Numériques)** @ [EME School] _(Sep 2011 - Jul 2014)_ <br>
-  - structure of a network, notions of electricity (weak and strong current...)
-  - read an electronic plan, knowledge of electronic components...
-  - welding, electronic device cable, preventive and curative maintenance...
-    <br><br>
+**👨‍🔧network technician** @ [Tisseo - Bouygues Telecom] _(Aug 2018 - Sep 2021)_ <br>
+  - Basics of telecoms (signal, filtering, transmission, antennas, etc.)
+  - client contact / Technical installation / Maintenance 
+  - welding, wiring techniques 
+  <br><br>
     
 **👨‍🎓BTS SN IR( Systèmes Numériques Informatique et Réseaux)** @ [EME School] _(Sep 2016 - Jul 2018)_ <br>
   - Algorithms / Physics / English / Economics and Management
@@ -54,6 +54,14 @@ The Complete JavaScript Course 2022: From Zero to Expert! PHP for Beginners - Be
   - Embedded Systems / Hardware Architecture of Computers and Microcontrollers / Industrial networks (Modbus, CAN…) / Server virtualization, hypervisor...
   - Digital processing (sounds and images) / Basics of telecoms (signal, filtering, transmission, antennas, etc.)
   <br><br>
+
+
+**👨‍🎓SEN baccalaureate (Sytèmes Electroniques Numériques)** @ [EME School] _(Sep 2011 - Jul 2014)_ <br>
+  - Structure of a network, notions of electricity (weak and strong current...)
+  - Read an electronic plan, knowledge of electronic components...
+  - welding, electronic device cable, preventive and curative maintenance...
+    <br><br>
+
 
 ## 🏆 Web Accomplishments
 
